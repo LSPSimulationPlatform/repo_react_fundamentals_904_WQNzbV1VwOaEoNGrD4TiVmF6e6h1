@@ -1,0 +1,92 @@
+{
+  "id": "ddae3559-5f1e-4ac6-961e-5bcf00f127c9",
+  "name": "Welcome/ Onboarding screen",
+  "label": "Welcome/ Onboarding screen",
+  "projectId": "4ihRX7eLMZx8hoeELhxS",
+  "createdBy": "dPgbdLNASpeYqBQlTFLBX4DmZj62",
+  "createdAt": {
+    "seconds": 1782887293,
+    "nanoseconds": 977000000
+  },
+  "updatedAt": {
+    "seconds": 1782887293,
+    "nanoseconds": 977000000
+  },
+  "description": "",
+  "userAcceptanceCriteria": [],
+  "externalViewLinks": [],
+  "input": {
+    "775b8e9d-2317-48dc-8cd4-bcd70167f9e6": {
+      "hasLabel": true,
+      "cellNo": "12",
+      "inputName": "App Logo",
+      "order": 0,
+      "id": "775b8e9d-2317-48dc-8cd4-bcd70167f9e6",
+      "inputType": "IN",
+      "componentType": "img",
+      "content": "",
+      "fkTableId": "",
+      "fkUserStoryId": "ddae3559-5f1e-4ac6-961e-5bcf00f127c9"
+    },
+    "b780b5e4-34bb-4d59-9a8c-1598f33a0568": {
+      "content": "",
+      "fkTableId": "",
+      "fkUserStoryId": "ddae3559-5f1e-4ac6-961e-5bcf00f127c9",
+      "inputName": "Benefit List",
+      "hasLabel": true,
+      "cellNo": "12",
+      "order": 2,
+      "id": "b780b5e4-34bb-4d59-9a8c-1598f33a0568",
+      "inputType": "IN",
+      "componentType": "txa"
+    },
+    "57ac81ab-0d3c-49f6-a704-ce9dfce32ad6": {
+      "order": 3,
+      "hasLabel": false,
+      "inputName": "Order Card Button",
+      "cellNo": "12",
+      "componentType": "btn",
+      "inputType": "IN",
+      "id": "57ac81ab-0d3c-49f6-a704-ce9dfce32ad6",
+      "content": "",
+      "fkTableId": "",
+      "fkUserStoryId": "ddae3559-5f1e-4ac6-961e-5bcf00f127c9"
+    },
+    "a1f0fd30-5018-4435-aa44-9d1f87fedeeb": {
+      "fkTableId": "",
+      "content": "",
+      "fkUserStoryId": "ddae3559-5f1e-4ac6-961e-5bcf00f127c9",
+      "cellNo": "12",
+      "inputName": "Login Link",
+      "hasLabel": false,
+      "order": 4,
+      "id": "a1f0fd30-5018-4435-aa44-9d1f87fedeeb",
+      "inputType": "IN",
+      "componentType": "hlink"
+    },
+    "5134dafc-afb8-4926-9214-f2b2a6d10f01": {
+      "fkTableId": "",
+      "content": "",
+      "fkUserStoryId": "ddae3559-5f1e-4ac6-961e-5bcf00f127c9",
+      "order": 1,
+      "hasLabel": true,
+      "cellNo": "12",
+      "inputName": "Main Title",
+      "componentType": "txt",
+      "id": "5134dafc-afb8-4926-9214-f2b2a6d10f01",
+      "inputType": "IN",
+      "manualDescription": {
+        "748d9736-ea28-4b84-8105-71d30a5b65b0": {
+          "event": "",
+          "description": "Is Mandatory",
+          "id": "748d9736-ea28-4b84-8105-71d30a5b65b0",
+          "order": 0,
+          "inputId": "5134dafc-afb8-4926-9214-f2b2a6d10f01",
+          "inputName": "Main Title",
+          "uiId": "ddae3559-5f1e-4ac6-961e-5bcf00f127c9",
+          "uiName": "Welcome/ Onboarding screen"
+        }
+      }
+    }
+  }
+}
